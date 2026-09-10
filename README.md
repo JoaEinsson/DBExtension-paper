@@ -6,8 +6,6 @@ Authors: Joao Vitor Mattos Scarpate; Leandro Rodrigues da Silva Souza; Geraldo A
 
 Corresponding author: Joao Vitor Mattos Scarpate, IFES Campus Serra. ORCID: [0009-0000-2114-1679](https://orcid.org/0009-0000-2114-1679). Email: joaovitorscarpate@gmail.com.
 
-Repository: [DBExtension-paper](https://github.com/JoaEinsson/DBExtension-paper). Target journal: Integration.
-
 ## Scope
 
 The manuscript defines a Boolean signal value paired with a vector of input-direction sensitivities. Gate-local propagation computes an input-to-node structural quantity in a single topological traversal. Agreement with the functional Boolean derivative is proved under directional independence. In general reconvergent circuits there is no universal equality, upper-bound, or lower-bound guarantee.
