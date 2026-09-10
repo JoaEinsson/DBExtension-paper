@@ -68,11 +68,3 @@ One random circuit with 8N gates and one output was used per input width. The la
 ## Citation and availability
 
 Use the root `CITATION.cff` (GitHub “Cite this repository”) or `CITATION.bib`. The manuscript cites this repository as a dataset. The manuscript has no publication DOI yet. Repository version 1.0.0 identifies this prepared deposit; it is not an assertion that a journal article has been published.
-
-## Funding and conflicts
-
-No specific research grant was received. The authors have declared no competing interests. The manuscript includes the disclosure of AI assistance used during its preparation.
-
-## Submission materials
-
-See `submission/LEIA-ME_SUBMISSAO.md` for the upload sequence and final author checks. Build the manuscript from `submission/manuscript/` using `pdflatex paper.tex` twice, or use the supplied PDF. The eight figure files are kept in the relative paths referenced by the TEX.
