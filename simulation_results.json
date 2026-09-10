@@ -1,0 +1,73 @@
+﻿{
+    "c17":  {
+                "TotalMatches":  56,
+                "TotalChecks":  64,
+                "MatchRate":  87.5
+            },
+    "Scaling":  [
+                    {
+                        "NominalArea":  32,
+                        "FDTime":  13.38352,
+                        "N":  4,
+                        "MatchRate":  95.75,
+                        "DualArea":  288,
+                        "DualTime":  7.158799
+                    },
+                    {
+                        "NominalArea":  64,
+                        "FDTime":  35.856616,
+                        "N":  8,
+                        "MatchRate":  100,
+                        "DualArea":  1216,
+                        "DualTime":  14.222507
+                    },
+                    {
+                        "NominalArea":  96,
+                        "FDTime":  65.473409,
+                        "N":  12,
+                        "MatchRate":  99.33,
+                        "DualArea":  2976,
+                        "DualTime":  21.078409999999998
+                    },
+                    {
+                        "NominalArea":  128,
+                        "FDTime":  107.27909100000001,
+                        "N":  16,
+                        "MatchRate":  94.25,
+                        "DualArea":  4960,
+                        "DualTime":  27.909032000000003
+                    },
+                    {
+                        "NominalArea":  160,
+                        "FDTime":  158.32920900000002,
+                        "N":  20,
+                        "MatchRate":  100,
+                        "DualArea":  7560,
+                        "DualTime":  35.617283
+                    },
+                    {
+                        "NominalArea":  192,
+                        "FDTime":  215.99228000000002,
+                        "N":  24,
+                        "MatchRate":  98.62,
+                        "DualArea":  10656,
+                        "DualTime":  44.342435
+                    },
+                    {
+                        "NominalArea":  224,
+                        "FDTime":  289.539039,
+                        "N":  28,
+                        "MatchRate":  99.57,
+                        "DualArea":  15120,
+                        "DualTime":  51.422710000000009
+                    },
+                    {
+                        "NominalArea":  256,
+                        "FDTime":  368.95301100000006,
+                        "N":  32,
+                        "MatchRate":  100,
+                        "DualArea":  19776,
+                        "DualTime":  60.875026000000005
+                    }
+                ]
+}

@@ -1,0 +1,17 @@
+Circuit,Variable,S_struct,S_func,Match,Class
+x OR ~x,x,1,0,False,cancellation
+x OR ~x,x,1,0,False,cancellation
+x AND ~x,x,1,0,False,cancellation
+x AND ~x,x,1,0,False,cancellation
+(x&y)|(x&~y),y,0,0,True,redundant
+(x&y)|(x&~y),y,0,0,True,redundant
+(x&y)|(x&~y),y,1,0,False,redundant
+(x&y)|(x&~y),y,1,0,False,redundant
+(x&a)|(x&b),x,0,0,True,reconvergent
+(x&a)|(x&b),x,1,1,True,reconvergent
+(x&a)|(x&b),x,1,1,True,reconvergent
+(x&a)|(x&b),x,1,1,True,reconvergent
+(x&a)|(x&b),x,0,0,True,reconvergent
+(x&a)|(x&b),x,1,1,True,reconvergent
+(x&a)|(x&b),x,1,1,True,reconvergent
+(x&a)|(x&b),x,0,1,False,reconvergent
