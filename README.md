@@ -20,7 +20,6 @@ This deposit preserves the existing numerical output files without rerunning exp
 | `simulation_results.json` | c17 agreement counts and eight scalability configurations | Experiments 4–6, scalability table and cost/runtime plots |
 | `iscas85_results.csv` | Aggregate results for 11 mapped ISCAS-85 circuits | Experiment 7, benchmark table and reconvergence/speedup/overhead figures |
 | `CITATION.cff`, `CITATION.bib` | Dataset citation metadata | Citation of this deposit |
-| `submission/` | Manuscript, source figures, cover letter, highlights, presentation and editorial materials | Journal submission package |
 
 Experiments 1 and 2 are represented by their existing manuscript figures. Their individual numerical records are not included in these three result files.
 
